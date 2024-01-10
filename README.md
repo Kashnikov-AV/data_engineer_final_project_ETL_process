@@ -4,3 +4,7 @@
 - stg
 - dwh
 - report (витрина данных)
+
+requirements: 
+- psycopg2
+- pandas
